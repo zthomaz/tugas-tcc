@@ -1,4 +1,4 @@
 # tugas-tcc
 
-Nama Kelompok :
-Sarwan Hamid (155410026)
+Nama Kelompok
+1. Sarwan Hamid (155410026)
